@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Felipe 👋</h1>
 
-<h3 align="center">Soy un Ful Stack Developer graduado del bootcamp de SoyHenry, con interés en el backend y una búsqueda de aprendizaje constante.</h3> 
+<h3 align="center">Soy Ful Stack Developer graduado del bootcamp de SoyHenry, con interés en el backend y una búsqueda de aprendizaje constante.</h3> 
 
 #
 
