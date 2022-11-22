@@ -2,9 +2,6 @@
 
 <h3 align="center">Soy un Ful Stack Developer graduado del bootcamp de SoyHenry, con interés en el backend y una búsqueda de aprendizaje constante.</h3> 
 
-<h3>📫 Contáctame: </h3>
-<a href="https://www.linkedin.com/in/felipe-siravegna/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-siravegna/" height="30" width="40" /></a>
-
 #
 
 <h3>Tecnologías</h3>
@@ -19,6 +16,11 @@
 <img align="left" alt="Postgres" width="30px" syle="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
 <br />
+
+#
+
+<h3>📫 Contáctame: </h3>
+<a href="https://www.linkedin.com/in/felipe-siravegna/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-siravegna/" height="30" width="40" /></a>
 
 #
 
