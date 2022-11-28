@@ -22,7 +22,7 @@
 #
 
 <h3>📫 Contáctame: </h3>
-Linkedin: <a href="https://www.linkedin.com/in/felipe-siravegna/" target="_blank">Felipe Siravegna</a> 
+👤 Linkedin: <a href="https://www.linkedin.com/in/felipe-siravegna/" target="_blank">Felipe Siravegna</a> 
 
 📩 Mail: felipesiravegna1@gmail.com
 
