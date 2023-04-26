@@ -1,12 +1,12 @@
 <img align="center" alt="hello world" width="1100px" src="https://user-images.githubusercontent.com/84687624/203408949-c41da24f-3dd9-4f7d-9bd3-23a730df338c.png">
 
-<h1 align="center">Hola, soy Felipe 👋</h1>
+<h1 align="center">Hi, I'm Felipe Siravegna 👋</h1>
 
-<h3 align="center">Soy Ful Stack Developer graduado del bootcamp de SoyHenry, con interés en el backend y una búsqueda de aprendizaje constante.</h3> 
+<h3 align="center">I'm a Full Stack Developer</h3> 
 
 #
 
-<h3>Tecnologías</h3>
+<h3>Skills</h3>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -21,7 +21,7 @@
 
 #
 
-<h3>📫 Contáctame: </h3>
+<h3>📫 Contact me: </h3>
 👤 Linkedin: <a href="https://www.linkedin.com/in/felipe-siravegna/" target="_blank">Felipe Siravegna</a> 
 
 📩 Mail: felipesiravegna1@gmail.com
@@ -29,7 +29,7 @@
 
 #
 
-<h3>📊 Estadísticas: </h3>
+<h3>📊 Stats: </h3>
 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=FelipeSiravegna&show_icons=true&theme=gruvbox)
 
